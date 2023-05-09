@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alton47
+- 👋 Hi, I’m Allan!
 - 👀 I’m interested in Web development and AI
 - 🌱 I’m currently learning ThreeJS and WebGL
 - 💞️ I’m looking to collaborate on any Interesting projects
-- 📫 How to reach me allanalton47@gmail.com
+- 📫 How to reach me allan@allanalton.com
 
 <!---
 alton47/alton47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
