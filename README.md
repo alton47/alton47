@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <b>Allan!</b>
 - 👀 I’m interested in Web development and AI
 - 🌱 I’m currently learning ThreeJS and WebGL
-- 💞️ I’m looking to collaborate on any Interesting projects
+- 💞️ I’m looking to collaborate on any Interesting Web projects
 - 📫 How to reach me allan@allanalton.com
 
 <!---
