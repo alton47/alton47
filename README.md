@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Allan!
+- 👋 Hi, I’m <b>Allan!</b>
 - 👀 I’m interested in Web development and AI
 - 🌱 I’m currently learning ThreeJS and WebGL
 - 💞️ I’m looking to collaborate on any Interesting projects
