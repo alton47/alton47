@@ -23,6 +23,7 @@
 - 💰 **[ShuaPay](https://www.shuapay.com)** - A FinTech to challenge the BIG dogss
 - 📊 **[Logistics Dashboard](https://client.wakawakalogistics.com/api/bs/client/index?jboltappid=jb54lpj7ll9holt)** – Real-time metrics, low-stock alerts and revenue tracking
 - 🧾 **[THL](https://www.thlaccounting.com/)** - Accounting software & IMS
+- 🐍 **[Naga](https://github.com/alton47/naga)** - Modern reImagined Snake game
 - 🤖 **AI-assisted tooling** – Exploring how AI can automate ops and reporting
 
 ---
