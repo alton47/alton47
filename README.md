@@ -4,27 +4,29 @@
 
 📍 **Zanzibar** | 🧠 **Computer geek..** | 🚜 **AgTech**
 
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-000000?style=flat-square&logo=openai&logoColor=white)
+![Backend](https://img.shields.io/badge/-Backend-0A0A0A?style=flat-square&logo=fastapi)
+![AI](https://img.shields.io/badge/-AI-000000?style=flat-square&logo=openai&logoColor=blue)
 
 > Deep in build mode — designing systems, role-based dashboards and scalable 3D web apps.  
-> Helping brands of all sizes tell their stories through Code & Timeless visuals..
+> Helping brands of all sizes tell their stories through Timeless visuals & Code..
 
 ---
 
 ## 🚀 Current Projects
 
+- 🐒 **[Punchie](https://github.com/alton47/punchie)** - An old-school mobile runner game inspired by the Punch Monkey!!
 - 🏪 **[Binzo](https://github.com/alton47/binzo)** – Multi-role Inventory Management System
 - 🦷 **[Alara Dentals](https://alaradental.com/)** - Dental supply Ecommerce
 - 💰 **[ShuaPay](https://www.shuapay.com)** - A FinTech to challenge the BIG dogss
 - 📊 **[Logistics Dashboard](https://client.wakawakalogistics.com/api/bs/client/index?jboltappid=jb54lpj7ll9holt)** – Real-time metrics, low-stock alerts and revenue tracking
 - 🧾 **[THL](https://www.thlaccounting.com/)** - Accounting software & IMS
 - 🐍 **[Naga](https://github.com/alton47/naga)** - Modern reImagined Snake game
-- 🤖 **AI-assisted tooling** – Exploring how AI can automate ops and reporting
+- 🤖 **[AI-assisted tooling]()** – Exploring how AI can automate ops and reporting
 
 ---
 
@@ -35,7 +37,7 @@
 - 🔄 **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app
 - 💩 **[Rookie Rranks](https://3dsense.net/)** - A site for Rookies
 - 🎓 **[SchoolBiz](https://play.google.com/store/apps/details?id=com.app.school.biz&hl=en_ZA)** - Facilitate communication btn schools, teachers and parents
-- ⛽ **Petrolfy** – Fuel-on-Demand product & experimentation
+- ⛽ **[Petrolfy]()** – Fuel-on-Demand product & experimentation
 
 ---
 
