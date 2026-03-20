@@ -19,13 +19,15 @@
 
 ## 🚀 Current Projects
 
-- 🐒 **[Punchie](https://github.com/alton47/punchie)** - An old-school mobile runner game inspired by the Punch Monkey!!
-- 🏪 **[Binzo](https://github.com/alton47/binzo)** – Multi-role Inventory Management System
 - 🦷 **[Alara Dentals](https://alaradental.com/)** - Dental supply Ecommerce
+- 🏪 **[Nas.io](https://nas.io/)** - The Nas Daily Marketplace | Launching June
+- 🦿 **[Zurimed](http://zurimed.com/)** - 3D Renovation in progress!!
 - 💰 **[ShuaPay](https://www.shuapay.com)** - A FinTech to challenge the BIG dogss
 - 📊 **[Logistics Dashboard](https://client.wakawakalogistics.com/api/bs/client/index?jboltappid=jb54lpj7ll9holt)** – Real-time metrics, low-stock alerts and revenue tracking
 - 🧾 **[THL](https://www.thlaccounting.com/)** - Accounting software & IMS
 - 🐍 **[Naga](https://github.com/alton47/naga)** - Modern reImagined Snake game
+- 🐒 **[Punchie](https://github.com/alton47/punchie)** - An old-school mobile runner game inspired by the Punch Monkey!!
+- 🏪 **[Binzo](https://github.com/alton47/binzo)** – Multi-role Inventory Management System
 - 🤖 **[AI-assisted tooling]()** – Exploring how AI can automate ops and reporting
 
 ---
@@ -34,10 +36,10 @@
 
 - 🩺 **[Plus-u-aid](http://plus.u-aid.org/)** – Health & aid for Ukraine platform
 - 📻 **[Slacker Radio](https://www.liveone.com/)** – A Collaboration with Fred Nerby
-- 🔄 **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app
-- 💩 **[Rookie Rranks](https://3dsense.net/)** - A site for Rookies
+- 🔄 **[CodeLooper](https://github.com/steipete/CodeLooper)** - An experimental macOS menubar app
+- 💩 **[Rookie Rranks](https://3dsense.net/)** - A site for Rookies 😂
 - 🎓 **[SchoolBiz](https://play.google.com/store/apps/details?id=com.app.school.biz&hl=en_ZA)** - Facilitate communication btn schools, teachers and parents
-- ⛽ **[Petrolfy]()** – Fuel-on-Demand product & experimentation
+- ⛽ **[Petrolfy]()** – A Nigerian Fuel-on-Demand Mobile App tailored for Nigeria’s unique, high-demand energy landscape.
 
 ---
 
