@@ -29,6 +29,7 @@
 - 🐒 **[Punchie](https://github.com/alton47/punchie)** - An old-school mobile runner game inspired by the Punch Monkey!!
 - 🏪 **[Binzo](https://github.com/alton47/binzo)** – Multi-role Inventory Management System
 - 🤖 **[AI-assisted tooling]()** – Exploring how AI can automate ops and reporting
+- 📲 **[Aivie](https://github.com/aiviemarketing/aiv-ng-product-configuration)** – Aivie.ch Product configurator 
 
 ---
 
