@@ -21,7 +21,7 @@
 
 - 🦷 **[Alara Dentals](https://alaradental.com/)** - Dental supply Ecommerce
 - 🐣 **[Broilr](https://github.com/alton47/Broilr)** - Simplifying Poultry Farm Management
-- 🧪 **[Terminal-Bench 2.0](https://github.com/alton47/terminalbench-tasks)** - Hardcore AI engineering benchmarks
+- 🧪 **[Terminal-Bench 2.0](https://www.tbench.ai/)** - Hardcore AI engineering benchmarks
 - 🏪 **[Nas.io](https://nas.io/)** - The Nas Daily Marketplace | Launching June
 - 🦿 **[Zurimed](http://zurimed.com/)** - 3D Renovation in progress!!
 - 💰 **[ShuaPay](https://www.shuapay.com)** - A FinTech to challenge the BIG dogss
