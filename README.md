@@ -19,6 +19,7 @@
 
 ## 🚀 Current Projects
 
+- 📽️ **[Fern](https://www.watchfern.com/)** - Video Journalism, Redefined 
 - 🦷 **[Alara Dentals](https://alaradental.com/)** - Dental supply Ecommerce
 - 🐣 **[Broilr](https://github.com/alton47/Broilr)** - Simplifying Poultry Farm Management
 - 🧪 **[Terminal-Bench 2.0](https://www.tbench.ai/)** - Hardcore AI engineering benchmarks
