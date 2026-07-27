@@ -40,7 +40,6 @@
 
 - 🩺 **[Plus-u-aid](http://plus.u-aid.org/)** – Health & aid for Ukraine platform
 - 📻 **[Slacker Radio](https://www.liveone.com/)** – A Collaboration with Fred Nerby
-- 🔄 **[CodeLooper](https://github.com/steipete/CodeLooper)** - An experimental macOS menubar app
 - 💩 **[Rookie Rranks](https://3dsense.net/)** - A site for Rookies 😂
 - 🎓 **[SchoolBiz](https://play.google.com/store/apps/details?id=com.app.school.biz&hl=en_ZA)** - Facilitate communication btn schools, teachers and parents
 - ⛽ **[Petrolfy]()** – A Nigerian Fuel-on-Demand Mobile App tailored for Nigeria’s unique, high-demand energy landscape.
